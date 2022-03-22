@@ -1,3 +1,5 @@
 # ninja log v5
 0	417	6696230446591540	CMakeFiles/runoob_git_test.dir/main.cpp.obj	d06364d78bddc98e
 420	592	6696230448189803	runoob_git_test.exe	a657663d18d3d47e
+5	448	6696270658208372	CMakeFiles/runoob_git_test.dir/main.cpp.obj	d06364d78bddc98e
+448	641	6696270660148808	runoob_git_test.exe	a657663d18d3d47e
