@@ -1,0 +1,3 @@
+D:/Astudy/git-test/runoob-git-test/cmake-build-debug/CMakeFiles/runoob_git_test.dir
+D:/Astudy/git-test/runoob-git-test/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Astudy/git-test/runoob-git-test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
